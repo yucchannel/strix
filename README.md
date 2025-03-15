@@ -1,5 +1,5 @@
 ## StrixOS
----
+
 StrixOS is a minimal, custom operating system designed from scratch. It's built with low-level programming in mind, using assembly language and C to create a lightweight and efficient OS. StrixOS is aimed at developers and hobbyists who want to explore operating system concepts, low-level hardware interaction, and bootloader design. The system is designed to run on a virtual machine (QEMU) but can also be adapted for physical hardware.
 
 ### Features
