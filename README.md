@@ -51,6 +51,10 @@ Feel free to contribute to the development of StrixOS by submitting issues or pu
 
 StrixOS is released under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
+### about this character > ~(___('U')
+
+This character is a snake named SHELL.
+
 ---
 
 This description gives an overview of the StrixOS project, including its purpose, features, technologies, and instructions for getting started. If you want to use it on your GitHub repository, just replace the placeholder with your actual repository link and adjust any details specific to your project.
