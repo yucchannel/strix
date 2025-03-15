@@ -21,7 +21,7 @@ To get started with StrixOS, clone the repository and build the OS using the fol
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/strixos.git
+   git clone https://github.com/yucchannel/strix.git
    cd strixos
    ```
 
